@@ -1,4 +1,4 @@
-function Set-MailboxGroupLimit {
+function Set-MailboxQuota {
     <#
 	.SYNOPSIS
     Gère le quota des boîtes mail Exchange Online d'un groupe de distribution Ad Azure
